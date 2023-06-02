@@ -1,0 +1,1 @@
+export './educator/index.dart';
